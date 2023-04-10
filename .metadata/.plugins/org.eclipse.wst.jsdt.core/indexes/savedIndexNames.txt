@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+730884339.index
+2782568257.index
+3646626448.index
+3229361904.index
+2070647498.index
+1873795191.index
+1319920609.index
+198272526.index
+2056623658.index

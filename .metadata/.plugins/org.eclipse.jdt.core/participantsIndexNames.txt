@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1744265579.index
+\ExelRead\src\main\java
+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\201317072.index
+\ExcelRead\src\main\java
+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2070608712.index
+\MVC Student CURD Application\src\main\java
+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\48957584.index
+\ExcelRead2\src\main\java
+C:\Users\rutur\OneDrive\Desktop\practicle interview\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\326391676.index
+\ExcelRead\src\main\java
